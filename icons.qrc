@@ -1,0 +1,165 @@
+<RCC>
+  <qresource>
+    <file>icons/book.png</file>
+    <file>icons/members.png</file>
+    <file>icons/authors.png</file>
+    <file>icons/librarian.png</file>
+    <file>icons/dashbord.png</file>
+    <file>icons/todaymovepng.png</file>
+    <file>icons/services.png</file>
+    <file>icons/daily-report.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/info-icon-32.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/1814422-200.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/1999288.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/2228782.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/5293476.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/change-password-5.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/permission.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/625599.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/3145765.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/74171.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/951716.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/21739.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/492234-200.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/book_pulse_filled_icon_200903.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/3968430-200.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/trend.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/trendBook.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/top10.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/book_copies.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/clear.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/historyy.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/5509636.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/login-password-3.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/librarrry.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/900834.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/settings.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/returnnn.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/return.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/serv.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/srrvpng.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/user.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/catg.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/publ.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/auth.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/employee.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/librarianss.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/next.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/cliennnt.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/addmember.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/clientt.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/delete.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/edit.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/bk.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/addbook.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/ourbooks.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/search.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/booooks.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/libraryyy.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/memmain.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/bookmain.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/today movepng.png</file>
+  </qresource>
+</RCC>
