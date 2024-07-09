@@ -74,7 +74,7 @@ class Main(QMainWindow, MainUI) :
     def db_connect(self) :
         #DB connections 
         self.db = MySQLdb.connect(host = 'localhost' ,user = 'root' ,
-                                  password = 'abdullah162906',db = 'DeirQaddis_library')
+                                  password = 'password',db = 'DeirQaddis_library')
         self.cur = self.db.cursor()
         print('Connection Established')
 
